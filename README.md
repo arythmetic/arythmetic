@@ -1,4 +1,4 @@
-- 👋 Hi, We are the Creators of The Logarithmetic Framework
+- 👋 Hi, We are the Creators of The Logarithmetic CyberQuaNexus Framework
  #Logarithmic
  #Operations
  #Governing
